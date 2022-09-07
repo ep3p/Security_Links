@@ -38,3 +38,4 @@ This repository should contain links related to information security resources.
 - [www.ultimatewindowssecurity.com LookUp Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx) [AD]
 - [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) [AD][Authentication]
 - [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) [AD][Attack]
+- [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) [AD][Attack]
