@@ -2,3 +2,11 @@
 This repository should contain links to information security resources.
 
 - [gtworek/psbits](https://github.com/gtworek/psbits) [Software][Test]
+- [cloudbrothers.info Azure Dominance Paths](https://cloudbrothers.info/en/azure-dominance-paths/) [Azure][Attack][Defense]
+- [mandiant/Azure_Workshop](https://github.com/mandiant/Azure_Workshop) [Azure][Attack]
+  - [mandiant/Azure_Workshop Setup Video](https://www.youtube.com/watch?v=j20yiY1sArU)
+- [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) [Azure][Attack][Defense]
+- [Azure/SimuLand](https://simulandlabs.com/labs/README.html) [Azure][Attack]
+- [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) [Azure][Attack][Defense]
+- [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) [Azure][Defense]
+- [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) [Azure][Attack]
