@@ -29,10 +29,11 @@ This repository should contain links related to information security resources.
 - [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) [AD][Attack]
   - [Orange-Cyberdefense/arsenal Pentest AD Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png)
   - [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
-- [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) [Blog][Authentication][Azure][AD]
+- [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) [Blog][AD][Azure][Authentication]
   - [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth)
     - [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) 
   - [docs.microsoft.com Azure AD Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso)
 - [frsecure.com RDP Event IDs](https://frsecure.com/blog/rdp-connection-event-logs/) [AD][RDP]
 - [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) [Defense][RDP][Defender for Identity]
 - [www.ultimatewindowssecurity.com LookUp Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx) [AD]
+- [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) [AD][Authentication]
