@@ -26,4 +26,6 @@ This repository should contain links related to information security resources.
   - [docs.microsoft.com AD Schema Extended Rights](https://docs.microsoft.com/en-us/windows/win32/adschema/extended-rights)
   - [docs.microsoft.com Control Access Rights](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/1522b774-6464-41a3-87a5-1e5633c3fbbb)
 - [zer1t0.gitlab.io Attacking AD](https://zer1t0.gitlab.io/posts/attacking_ad/) [AD][Attack]
-- 
+- [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) [AD][Attack]
+  - [Orange-Cyberdefense/arsenal Pentest AD Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png)
+  - [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
