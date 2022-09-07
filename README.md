@@ -40,3 +40,4 @@ This repository should contain links related to information security resources.
 - [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) [AD][Attack]
 - [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) [AD][Attack]
 - [renenyffenegger.ch Brief notes about SID](https://renenyffenegger.ch/notes/Windows/security/SID/index) [AD]
+- [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) [Azure] (Old permissions may appear if you write them in the URI path)
