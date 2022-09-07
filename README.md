@@ -45,3 +45,4 @@ This repository should contain links related to information security resources.
 - [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) [Azure][Permission]
 - [LookUp Microsoft SignInLogs Error Codes (ResultType)](https://login.microsoftonline.com/error) [Tool][Azure][Authentication]
   - [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt)
+- [mitre-attack/car](https://car.mitre.org/analytics/by_technique) [Defense][Detection]
