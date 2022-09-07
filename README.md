@@ -22,3 +22,6 @@ This repository should contain links related to information security resources.
 - [adsecurity.org](https://adsecurity.org/) [Blog][AD][Attack][Defense]
 - [www.selfadsi.org](selfadsi.org) [AD]
   - [www.selfadsi.org AD Security Descriptors](http://www.selfadsi.org/deep-inside/ad-security-descriptors.htm)
+- [docs.microsoft.com AD Schema](https://docs.microsoft.com/en-us/windows/win32/adschema/active-directory-schema) [AD]
+  - [docs.microsoft.com AD Schema Extended Rights](https://docs.microsoft.com/en-us/windows/win32/adschema/extended-rights)
+- 
