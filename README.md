@@ -1,5 +1,5 @@
 # Security Links
-This repository should contain links to information security resources.
+This repository should contain links related to information security resources.
 
 - [gtworek/psbits](https://github.com/gtworek/psbits) [Software][Test]
 - [cloudbrothers.info Azure Dominance Paths](https://cloudbrothers.info/en/azure-dominance-paths/) [Azure][Attack][Defense]
