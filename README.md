@@ -19,3 +19,4 @@ This repository should contain links related to information security resources.
 - [o365blog.com](https://o365blog.com/) [Blog][Microsoft Security]
 - [office365itpros.com](https://office365itpros.com/) [Blog][Office 365]
 - [azurecloudai.blog](https://azurecloudai.blog/) [Blog][Microsoft Security]
+- [adsecurity.org](https://adsecurity.org/) [Blog][AD][Attack][Defense]
