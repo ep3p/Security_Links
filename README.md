@@ -13,7 +13,7 @@ This repository should contain links related to information security resources.
 - [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) [Azure][Defense]
 - [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) [Azure][Attack]
 - [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) [AD][Defense]
-- [@PyroTek3 AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) [AD][Defense]
+- [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) [AD][Defense]
 - [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) [Tool][Defense]
 - [msportals.io Microsoft Portals](https://msportals.io/) [Collection][Links][Microsoft]
 - [clong/detectionlab](https://github.com/clong/detectionlab) [Defense][Test]
@@ -26,7 +26,7 @@ This repository should contain links related to information security resources.
 - [docs.microsoft.com AD Schema](https://docs.microsoft.com/en-us/windows/win32/adschema/active-directory-schema) [AD]
   - [docs.microsoft.com AD Schema Extended Rights](https://docs.microsoft.com/en-us/windows/win32/adschema/extended-rights)
   - [docs.microsoft.com Control Access Rights](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/1522b774-6464-41a3-87a5-1e5633c3fbbb)
-- [zer1t0.gitlab.io Attacking AD](https://zer1t0.gitlab.io/posts/attacking_ad/) [AD][Attack]
+- [zer1t0.gitlab.io](https://zer1t0.gitlab.io/posts/attacking_ad/) [AD][Attack]
 - [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) [AD][Attack]
   - [Orange-Cyberdefense/arsenal Pentest AD Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png)
   - [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
@@ -47,3 +47,4 @@ This repository should contain links related to information security resources.
 - [LookUp Microsoft SignInLogs Error Codes (ResultType)](https://login.microsoftonline.com/error) [Tool][Azure][Authentication]
   - [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt)
 - [mitre-attack/car](https://car.mitre.org/analytics/by_technique) [Defense][Detection]
+- [log2timeline/plaso](https://github.com/log2timeline/plaso) [Tool][Defense]
