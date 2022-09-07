@@ -31,5 +31,6 @@ This repository should contain links related to information security resources.
   - [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
 - [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) [Blog][Authentication][Azure][AD]
   - [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth)
+    - [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) 
   - [docs.microsoft.com Azure AD Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso)
 - 
