@@ -40,6 +40,6 @@ This repository should contain links related to information security resources.
 - [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) [AD][Attack]
 - [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) [AD][Attack]
 - [renenyffenegger.ch Brief notes about SID](https://renenyffenegger.ch/notes/Windows/security/SID/index) [AD]
-- [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) [Azure][Permission] (Old permissions may appear if written in the URI path)
+- [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) [Azure][Permission] (Old permissions may appear if written in the URI)
 - [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content/blob/dev/permissions/permissions-descriptions.json) [Azure][Permission]
 - [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) [Azure][Permission]
