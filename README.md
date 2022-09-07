@@ -37,4 +37,4 @@ This repository should contain links related to information security resources.
 - [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) [Defense][RDP][Defender for Identity]
 - [www.ultimatewindowssecurity.com LookUp Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx) [AD]
 - [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) [AD][Authentication]
-- [ShutdownRepo/The-Hacker-Recipes Attack Guide](https://github.com/ShutdownRepo/The-Hacker-Recipes) [AD][Attack]
+- [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) [AD][Attack]
