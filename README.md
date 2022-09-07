@@ -48,5 +48,5 @@ This repository should contain links related to information security resources.
   - [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt)
 - [mitre-attack/car](https://car.mitre.org/analytics/by_technique) [Defense][Detection]
 - [log2timeline/plaso](https://github.com/log2timeline/plaso) [Tool][Defense]
-- [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680)
+- [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) [Linux][Defense]
 - 
