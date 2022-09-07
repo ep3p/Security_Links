@@ -20,3 +20,5 @@ This repository should contain links related to information security resources.
 - [office365itpros.com](https://office365itpros.com/) [Blog][Office 365]
 - [azurecloudai.blog](https://azurecloudai.blog/) [Blog][Microsoft Security]
 - [adsecurity.org](https://adsecurity.org/) [Blog][AD][Attack][Defense]
+- [www.selfadsi.org](selfadsi.org) [AD]
+  - [www.selfadsi.org AD Security Descriptors](http://www.selfadsi.org/deep-inside/ad-security-descriptors.htm)
