@@ -24,4 +24,6 @@ This repository should contain links related to information security resources.
   - [www.selfadsi.org AD Security Descriptors](http://www.selfadsi.org/deep-inside/ad-security-descriptors.htm)
 - [docs.microsoft.com AD Schema](https://docs.microsoft.com/en-us/windows/win32/adschema/active-directory-schema) [AD]
   - [docs.microsoft.com AD Schema Extended Rights](https://docs.microsoft.com/en-us/windows/win32/adschema/extended-rights)
+  - [docs.microsoft.com Control Access Rights](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/1522b774-6464-41a3-87a5-1e5633c3fbbb)
+- [zer1t0.gitlab.io Attacking AD](https://zer1t0.gitlab.io/posts/attacking_ad/) [AD][Attack]
 - 
