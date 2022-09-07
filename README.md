@@ -2,7 +2,9 @@
 This repository should contain links related to information security resources.
 
 - [gtworek/psbits](https://github.com/gtworek/psbits) [Collection][Attack][Test]
-- [cloudbrothers.info Azure Dominance Paths](https://cloudbrothers.info/en/azure-dominance-paths/) [Azure][Attack][Defense]
+- [cloudbrothers.info Blog](https://cloudbrothers.info/) [Blog][Attack][Defense]
+  - [cloudbrothers.info Azure Dominance Paths](https://cloudbrothers.info/en/azure-dominance-paths/) [Azure][Attack][Defense]
+  - [cloudbrothers.info Guide Defender for Endpoint exclusions](https://cloudbrothers.info/en/guide-to-defender-exclusions/) [Defense][Defender for Endpoint]
 - [mandiant/Azure_Workshop](https://github.com/mandiant/Azure_Workshop) [Azure][Attack]
   - [mandiant/Azure_Workshop Setup Video](https://www.youtube.com/watch?v=j20yiY1sArU)
 - [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) [Azure][Attack][Defense]
@@ -14,7 +16,6 @@ This repository should contain links related to information security resources.
 - [@PyroTek3 AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) [AD][Defense]
 - [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) [Tool][Defense]
 - [msportals.io Microsoft Portals](https://msportals.io/) [Collection][Links][Microsoft]
-- [cloudbrothers.info Guide Defender for Endpoint exclusions](https://cloudbrothers.info/en/guide-to-defender-exclusions/) [Defense][Defender for Endpoint]
 - [clong/detectionlab](https://github.com/clong/detectionlab) [Defense][Test]
 - [o365blog.com](https://o365blog.com/) [Blog][Microsoft Security]
 - [office365itpros.com](https://office365itpros.com/) [Blog][Office 365]
