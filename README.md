@@ -33,4 +33,4 @@ This repository should contain links related to information security resources.
   - [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth)
     - [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) 
   - [docs.microsoft.com Azure AD Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso)
-- 
+- [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) [Defense][RDP][Defender for Identity]
