@@ -15,3 +15,4 @@ This repository should contain links related to information security resources.
 - [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) [Tool][Defense]
 - [msportals.io Microsoft Portals](https://msportals.io/) [Collection][Microsoft][Links]
 - [cloudbrothers.info Guide Defender for Endpoint exclusions](https://cloudbrothers.info/en/guide-to-defender-exclusions/) [Defense][Defender for Endpoint]
+- [clong/detectionlab](https://github.com/clong/detectionlab) [Defense][Test]
