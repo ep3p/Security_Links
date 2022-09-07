@@ -16,3 +16,5 @@ This repository should contain links related to information security resources.
 - [msportals.io Microsoft Portals](https://msportals.io/) [Collection][Links][Microsoft]
 - [cloudbrothers.info Guide Defender for Endpoint exclusions](https://cloudbrothers.info/en/guide-to-defender-exclusions/) [Defense][Defender for Endpoint]
 - [clong/detectionlab](https://github.com/clong/detectionlab) [Defense][Test]
+- [o365blog.com](https://o365blog.com/) [Blog][Microsoft]
+- [office365itpros.com](https://office365itpros.com/) [Blog][Office 365]
