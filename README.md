@@ -14,6 +14,7 @@ This repository should contain links related to information security resources.
 | [AD][Attack] | [zer1t0.gitlab.io](https://zer1t0.gitlab.io/posts/attacking_ad/) |
 | [AD][Attack][Defense] <br /> [Tool][Attack][Defense] | [www.wietzebeukema.nl Windows Command Line Obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation) <br /> [wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation) |
 | [AD][Authentication] | [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) |
+| [AD][Defense] | [www.jpcert.or.jp Detecting Lateral Movement](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) |
 | [AD][Defense] | [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) |
 | [AD][Defense] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
 | [AD][Defense][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
