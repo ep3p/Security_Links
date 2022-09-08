@@ -38,7 +38,7 @@ This repository should contain links related to information security resources.
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Collection][Links][Attack] | [0x4143/malware-gems](https://github.com/0x4143/malware-gems) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
-| [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1519459391006965760) |
+| [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [@CraigHRowland Tweet IP Address Obfuscation](https://twitter.com/CraigHRowland/status/1519459391006965760) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
 | [Tool][Defense] | [log2timeline/plaso](https://github.com/log2timeline/plaso) |
 | [Tool][Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
