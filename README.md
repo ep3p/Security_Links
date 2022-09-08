@@ -14,6 +14,7 @@ This repository should contain links related to information security resources.
 | [AD][Authentication] | [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) |
 | [AD][Defense] | [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) |
 | [AD][Defense] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
+| [AD][Defense][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
 | [AD][RDP] | [frsecure.com RDP Event IDs](https://frsecure.com/blog/rdp-connection-event-logs/) |
 | [Azure][Attack] | [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) |
 | [Azure][Attack] | [mandiant/Azure_Workshop](https://github.com/mandiant/Azure_Workshop) <br /> [mandiant/Azure_Workshop Setup Video](https://www.youtube.com/watch?v=j20yiY1sArU) |
@@ -35,8 +36,7 @@ This repository should contain links related to information security resources.
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
-| [Defense][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
-| [Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
 | [Tool][Defense] | [log2timeline/plaso](https://github.com/log2timeline/plaso) |
+| [Tool][Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
