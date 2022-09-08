@@ -10,6 +10,7 @@ This repository should contain links related to information security resources.
 | [AD][Attack] | [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) <br /> [Orange-Cyberdefense/arsenal Pentest AD Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png) <br /> [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png) |
 | [AD][Attack] | [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) |
 | [AD][Attack] | [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) |
+| [AD][Attack] | [posts.specterops.io Abuse Azure Container Registry Tasks](https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465) |
 | [AD][Attack] | [zer1t0.gitlab.io](https://zer1t0.gitlab.io/posts/attacking_ad/) |
 | [AD][Authentication] | [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) |
 | [AD][Defense] | [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) |
