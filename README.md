@@ -1,4 +1,4 @@
-# Security Links
+# <p align="center">Security Links</p>
 This repository should contain links related to information security resources.
 
 | Tags | Link |
