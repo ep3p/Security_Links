@@ -12,6 +12,7 @@ This repository should contain links related to information security resources.
 | [AD][Attack] | [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) |
 | [AD][Attack] | [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) |
 | [AD][Attack] | [zer1t0.gitlab.io](https://zer1t0.gitlab.io/posts/attacking_ad/) |
+| [AD][Attack][Defense] <br /> [Tool][Attack][Defense] | [https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation) <br /> [wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation) |
 | [AD][Authentication] | [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) |
 | [AD][Defense] | [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) |
 | [AD][Defense] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
@@ -43,7 +44,6 @@ This repository should contain links related to information security resources.
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [@CraigHRowland Tweet IP Address Obfuscation](https://twitter.com/CraigHRowland/status/1519459391006965760) |
 | [Microsoft Security] | [docs.microsoft.com Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) |
-| [Tool][Attack][Defense] |[wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
 | [Tool][Defense] | [log2timeline/plaso](https://github.com/log2timeline/plaso) |
 | [Tool][Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
