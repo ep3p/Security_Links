@@ -7,6 +7,7 @@ This repository should contain links related to information security resources.
 | [AD] | [renenyffenegger.ch Brief notes about SID](https://renenyffenegger.ch/notes/Windows/security/SID/index) |
 | [AD] | [www.selfadsi.org](selfadsi.org) <br /> [www.selfadsi.org AD Security Descriptors](http://www.selfadsi.org/deep-inside/ad-security-descriptors.htm) |
 | [AD] | [www.ultimatewindowssecurity.com LookUp Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx) |
+| [AD] | [improsec.com Attack Trusted Domain](https://improsec.com/tech-blog/sid-filter-as-security-boundary-between-domains-part-7-trust-account-attack-from-trusting-to-trusted) |
 | [AD][Attack] | [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) <br /> [Orange-Cyberdefense/arsenal Pentest AD Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png) <br /> [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png) |
 | [AD][Attack] | [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) |
 | [AD][Attack] | [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) |
