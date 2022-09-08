@@ -21,6 +21,7 @@ This repository should contain links related to information security resources.
 | [Azure][Attack][Defense] | [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) |
 | [Azure][Attack][Defense] | [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) |
 | [Azure][Attack][Test] | [Azure/SimuLand](https://simulandlabs.com/labs/README.html) |
+| [Azure][Authentication] | [LookUp Microsoft SignInLogs Error Codes (ResultType)](https://login.microsoftonline.com/error) <br /> [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt) |
 | [Azure][Defense] | [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) |
 | [Azure][Permission] | [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) <br /> (Old permissions may appear if written in the URI) |
 | [Azure][Permission] | [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) |
@@ -37,6 +38,5 @@ This repository should contain links related to information security resources.
 | [Defense][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
 | [Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) |
-| [Tool][Azure][Authentication] | [LookUp Microsoft SignInLogs Error Codes (ResultType)](https://login.microsoftonline.com/error) <br /> [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
 | [Tool][Defense] | [log2timeline/plaso](https://github.com/log2timeline/plaso) |
