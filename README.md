@@ -30,7 +30,7 @@ This repository should contain links related to information security resources.
 | [Blog][AD][Attack][Defense] | [adsecurity.org](https://adsecurity.org/) |
 | [Blog][AD][Azure][Authentication] | [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) <br /> [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth) <br /> [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) <br /> [docs.microsoft.com Azure AD Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso) |
 | [Blog][Attack][Defense] <br /> [Azure][Attack][Defense] <br /> [Defense][Defender for Endpoint] | [cloudbrothers.info Blog](https://cloudbrothers.info/) <br /> [cloudbrothers.info Azure Dominance Paths](https://cloudbrothers.info/en/azure-dominance-paths/) <br /> [cloudbrothers.info Guide Defender for Endpoint exclusions](https://cloudbrothers.info/en/guide-to-defender-exclusions/) |
-| [Blog][Microsoft Security] <br /> [Tool][Azure][Office 365] | [o365blog.com](https://o365blog.com/) <br /> [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) |
+| [Blog][Microsoft Security] <br /> [Tool][Azure][Office 365] <br /> [Azure][Attack] | [o365blog.com](https://o365blog.com/) <br /> [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) <br /> [o365blog.com Faking Device Compliance](https://o365blog.com/post/mdm/) |
 | [Blog][Microsoft Security] | [azurecloudai.blog](https://azurecloudai.blog/) |
 | [Blog][Office 365] | [office365itpros.com](https://office365itpros.com/) |
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
