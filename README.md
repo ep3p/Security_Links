@@ -36,6 +36,7 @@ This repository should contain links related to information security resources.
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
 | [Collection][AD][Attack] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
+| [Collection][Links][Attack] | [0x4143/malware-gems]([https://msportals.io/](https://github.com/0x4143/malware-gems)) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
