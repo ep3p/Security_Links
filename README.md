@@ -10,7 +10,6 @@ This repository should contain links related to information security resources.
 | [AD][Attack] | [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) <br /> [Orange-Cyberdefense/arsenal Pentest AD Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png) <br /> [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png) |
 | [AD][Attack] | [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) |
 | [AD][Attack] | [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) |
-| [AD][Attack] | [posts.specterops.io Abuse Azure Container Registry Tasks](https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465) |
 | [AD][Attack] | [zer1t0.gitlab.io](https://zer1t0.gitlab.io/posts/attacking_ad/) |
 | [AD][Authentication] | [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) |
 | [AD][Defense] | [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) |
@@ -20,6 +19,7 @@ This repository should contain links related to information security resources.
 | [Azure][Attack] | [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) |
 | [Azure][Attack] | [mandiant/Azure_Workshop](https://github.com/mandiant/Azure_Workshop) <br /> [mandiant/Azure_Workshop Setup Video](https://www.youtube.com/watch?v=j20yiY1sArU) |
 | [Azure][Attack] | [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) |
+| [Azure][Attack] | [posts.specterops.io Abuse Azure Container Registry Tasks](https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465) |
 | [Azure][Attack][Defense] | [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) |
 | [Azure][Attack][Defense] | [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) |
 | [Azure][Attack][Test] | [Azure/SimuLand](https://simulandlabs.com/labs/README.html) |
