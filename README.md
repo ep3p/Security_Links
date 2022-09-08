@@ -34,6 +34,7 @@ This repository should contain links related to information security resources.
 | [Blog][Microsoft Security] | [azurecloudai.blog](https://azurecloudai.blog/) |
 | [Blog][Office 365] | [office365itpros.com](https://office365itpros.com/) |
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
+| [Collection][AD][Attack] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) |
