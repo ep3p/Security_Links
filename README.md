@@ -11,7 +11,7 @@ This repository should contain links related to information security resources.
 | [AD][Attack] | [Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal) <br /> [Orange-Cyberdefense/arsenal Pentest AD Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png) <br /> [Orange-Cyberdefense/arsenal Pentest Exchange Mindmap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png) |
 | [AD][Attack] | [ShutdownRepo/The-Hacker-Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) |
 | [AD][Attack] | [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) |
-| [AD][Attack] | [zer1t0.gitlab.io](https://zer1t0.gitlab.io/posts/attacking_ad/) |
+| [AD][Attack] | [zer1t0.gitlab.io Attack AD](https://zer1t0.gitlab.io/posts/attacking_ad/) |
 | [AD][Attack][Defense] <br /> [Tool][Attack][Defense] | [www.wietzebeukema.nl Windows Command Line Obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation) <br /> [wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation) |
 | [AD][Authentication] | [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) |
 | [AD][Defense] | [www.jpcert.or.jp Detecting Lateral Movement](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) |
