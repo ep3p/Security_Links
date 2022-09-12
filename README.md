@@ -51,6 +51,7 @@ This repository should contain links related to information security resources.
 | [Defense][Detection] | [www.lares.com Lateral Movement](https://www.lares.com/blog/the-lowdown-on-lateral-movement) |
 | [Defense][Detection] | [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) |
 | [Defense][Detection] | [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) |
+| [Defense][Detection] | [Azure/Cloud-Katana](https://github.com/Azure/Cloud-Katana) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [@CraigHRowland Tweet IP Address Obfuscation](https://twitter.com/CraigHRowland/status/1519459391006965760) |
 | [Microsoft Security] | [docs.microsoft.com Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
