@@ -3,7 +3,7 @@ This repository should contain links related to information security resources.
 
 | Tags | Link |
 | ---- | ---- |
-| [AD] | [docs.microsoft.com AD Schema](https://docs.microsoft.com/en-us/windows/win32/adschema/active-directory-schema) <br /> [docs.microsoft.com AD Schema Extended Rights](https://docs.microsoft.com/en-us/windows/win32/adschema/extended-rights) <br /> [docs.microsoft.com Control Access Rights](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/1522b774-6464-41a3-87a5-1e5633c3fbbb) [docs.microsoft.com Best Practices for Securing AD](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)|
+| [AD] | [docs.microsoft.com AD Schema](https://docs.microsoft.com/en-us/windows/win32/adschema/active-directory-schema) <br /> [docs.microsoft.com AD Schema Extended Rights](https://docs.microsoft.com/en-us/windows/win32/adschema/extended-rights) <br /> [docs.microsoft.com Control Access Rights](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/1522b774-6464-41a3-87a5-1e5633c3fbbb) <br /> [docs.microsoft.com Best Practices for Securing AD](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)|
 | [AD] | [renenyffenegger.ch Brief notes about SID](https://renenyffenegger.ch/notes/Windows/security/SID/index) |
 | [AD] | [www.selfadsi.org](selfadsi.org) <br /> [www.selfadsi.org AD Security Descriptors](http://www.selfadsi.org/deep-inside/ad-security-descriptors.htm) |
 | [AD] | [www.ultimatewindowssecurity.com LookUp Windows Event IDs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx) |
