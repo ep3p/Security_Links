@@ -19,6 +19,7 @@ This repository should contain links related to information security resources.
 | [AD][Defense] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
 | [AD][Defense][IR] | [www.pwndefend.com Post Compromise AD Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/) |
 | [AD][Defense][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
+| [AD][LDAP] | [@simondotsh Tweet LDAP Query nested groups](https://twitter.com/simondotsh/status/1567557601608572932) |
 | [AD][RDP] | [frsecure.com RDP Event IDs](https://frsecure.com/blog/rdp-connection-event-logs/) |
 | [Azure][Attack] | [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) |
 | [Azure][Attack] | [mandiant/Azure_Workshop](https://github.com/mandiant/Azure_Workshop) <br /> [mandiant/Azure_Workshop Setup Video](https://www.youtube.com/watch?v=j20yiY1sArU) |
