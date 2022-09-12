@@ -42,6 +42,7 @@ This repository should contain links related to information security resources.
 | [Blog][Microsoft Security] <br /> [Tool][Azure][Office 365] <br /> [Azure][Attack] | [o365blog.com](https://o365blog.com/) <br /> [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) <br /> [o365blog.com Faking Device Compliance](https://o365blog.com/post/mdm/) |
 | [Blog][Microsoft Security] | [azurecloudai.blog](https://azurecloudai.blog/) |
 | [Blog][Office 365] | [office365itpros.com](https://office365itpros.com/) |
+| [Collection][Attack] | [swisskyrepo.github.io PayloadsAllTheThingsWeb](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) |
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
 | [Collection][AD][Attack] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
