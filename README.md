@@ -42,6 +42,7 @@ This repository should contain links related to information security resources.
 | [Blog][Attack][Defense] <br /> [Azure][Defense]  <br /> [Azure][Defense][IR]  <br />  [Azure][Attack] | [misconfig.io](https://misconfig.io/) <br /> [misconfig.io Azure Misconfiguration Risks](https://misconfig.io/cloud-misconfiguration-risks-azure/)  <br /> [misconfig.io Azure AD Incident Response life cycle](https://misconfig.io/azure-ad-incident-response-life-cycle-tools) <br /> [misconfig.io Attack Azure Storage](https://misconfig.io/azure-blob-container-threats-attack/) |
 | [Blog][Microsoft Security] <br /> [Tool][Azure][Office 365] <br /> [Azure][Attack] | [o365blog.com](https://o365blog.com/) <br /> [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) <br /> [o365blog.com Faking Device Compliance](https://o365blog.com/post/mdm/) |
 | [Blog][Microsoft Security] | [azurecloudai.blog](https://azurecloudai.blog/) |
+| [Blog][Microsoft Security] | [m365internals.com](https://m365internals.com) |
 | [Blog][Office 365] | [office365itpros.com](https://office365itpros.com/) |
 | [Collection][Attack] | [swisskyrepo.github.io PayloadsAllTheThingsWeb](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) |
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
