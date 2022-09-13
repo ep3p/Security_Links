@@ -52,9 +52,10 @@ This repository should contain links related to information security resources.
 | [Collection][Attack] | [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) |
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
 | [Collection][AD][Attack] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) |
-| [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Collection][Links][Attack] | [0x4143/malware-gems](https://github.com/0x4143/malware-gems) |
 | [Collection][Links][Attack][Defense] | [https://start.me/p/OmOrJb/threat-hunting](https://start.me/p/OmOrJb/threat-hunting) |
+| [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
+| [Collection][Links][News][Microsoft Security] | [https://mattsoseman.wordpress.com Microsoft Security News](https://mattsoseman.wordpress.com/2021/06/19/how-i-keep-up-with-microsoft-sci-product-features-and-news/) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
 | [Defense][Detection] | [www.lares.com Lateral Movement](https://www.lares.com/blog/the-lowdown-on-lateral-movement) |
 | [Defense][Detection] | [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) |
