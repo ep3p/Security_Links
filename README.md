@@ -47,6 +47,7 @@ This repository should contain links related to information security resources.
 | [Blog][Microsoft Security] | [m365internals.com](https://m365internals.com) |
 | [Blog][Office 365] | [office365itpros.com](https://office365itpros.com/) |
 | [Collection][Attack] | [swisskyrepo.github.io PayloadsAllTheThingsWeb](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/) |
+| [Collection][Attack] | [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) |
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
 | [Collection][AD][Attack] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
