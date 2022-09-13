@@ -20,6 +20,7 @@ This repository should contain links related to information security resources.
 | [AD][Defense] | [@\_wald0 Tweet AD Defense Kerberoasting](https://twitter.com/_wald0/status/1562871258190348289) |
 | [AD][Defense] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
 | [AD][Defense][IR] | [www.pwndefend.com Post Compromise AD Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/) |
+| [AD][Defense][IR] | [@Purp1eW0lf Tweet Incident Responde Cobalt Strike](https://twitter.com/Purp1eW0lf/status/1559482618873356289) |
 | [AD][Defense][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
 | [AD][LDAP] | [@simondotsh Tweet LDAP Query nested groups](https://twitter.com/simondotsh/status/1567557601608572932) |
 | [AD][RDP] | [frsecure.com RDP Event IDs](https://frsecure.com/blog/rdp-connection-event-logs/) |
