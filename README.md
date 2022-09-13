@@ -71,6 +71,7 @@ This repository should contain links related to information security resources.
 | [Tool][Defense] | [log2timeline/plaso](https://github.com/log2timeline/plaso) |
 | [Tool][Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
 | [Tool][Defense][Phishing] | [emptydc.com Pink Thumb for normal users](https://emptydc.com/2021/06/22/pink-thumb/) |
+| [Tool][Defense] | [https://pwnedkeys.com/](https://pwnedkeys.com/) |
 | [Tool] | [ciphey/ciphey](https://github.com/ciphey/ciphey) |
 | [Tool] | [bee-san/pyWhat](https://github.com/bee-san/pyWhat) |
 | [Tool] | [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) |
