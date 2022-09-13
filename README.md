@@ -55,6 +55,7 @@ This repository should contain links related to information security resources.
 | [Collection][Attack] | [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) |
 | [Collection][Attack][Test] | [gtworek/psbits](https://github.com/gtworek/psbits) |
 | [Collection][AD][Attack] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) |
+| [Collection][Defense][Detection] | [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) |
 | [Collection][Links][Attack] | [0x4143/malware-gems](https://github.com/0x4143/malware-gems) |
 | [Collection][Links][Attack][Defense] | [https://start.me/p/OmOrJb/threat-hunting](https://start.me/p/OmOrJb/threat-hunting) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
