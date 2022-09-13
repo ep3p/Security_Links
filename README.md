@@ -29,6 +29,7 @@ This repository should contain links related to information security resources.
 | [Azure][Attack] | [mandiant/Azure_Workshop](https://github.com/mandiant/Azure_Workshop) <br /> [mandiant/Azure_Workshop Setup Video](https://www.youtube.com/watch?v=j20yiY1sArU) |
 | [Azure][Attack] | [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) |
 | [Azure][Attack] | [posts.specterops.io Abuse Azure Container Registry Tasks](https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465) |
+| [Azure][Attack][Defense] | [https://microsoft.github.io/Azure-Threat-Research-Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/) |
 | [Azure][Attack][Defense] | [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) |
 | [Azure][Attack][Defense] | [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) |
 | [Azure][Attack][Test] | [Azure/SimuLand](https://simulandlabs.com/labs/README.html) |
