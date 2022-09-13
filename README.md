@@ -17,7 +17,7 @@ This repository should contain links related to information security resources.
 | [AD][Authentication] | [www.tarlogic.com Introduction Kerberos Delegation](https://www.tarlogic.com/blog/kerberos-iii-how-does-delegation-work/) |
 | [AD][Defense] | [www.jpcert.or.jp Detecting Lateral Movement](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) |
 | [AD][Defense] | [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) |
-| [AD][Defense] | [@_wald0 Tweet AD Defense](https://twitter.com/_wald0/status/1562871258190348289) |
+| [AD][Defense] | [@\_wald0 Tweet AD Defense](https://twitter.com/_wald0/status/1562871258190348289) |
 | [AD][Defense] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
 | [AD][Defense][IR] | [www.pwndefend.com Post Compromise AD Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/) |
 | [AD][Defense][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
