@@ -62,6 +62,7 @@ This repository should contain links related to information security resources.
 | [Collection][Links][Attack][Defense] | [https://start.me/p/OmOrJb/threat-hunting](https://start.me/p/OmOrJb/threat-hunting) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Collection][Links][News][Microsoft Security] | [https://mattsoseman.wordpress.com Microsoft Security News](https://mattsoseman.wordpress.com/2021/06/19/how-i-keep-up-with-microsoft-sci-product-features-and-news/) |
+| [Defense][DF] | [zeltser.com Cheat Sheet Analysis malicious documents](https://zeltser.com/analyzing-malicious-documents/) [zeltser.com Cheat Sheet Analysis malicious software](https://zeltser.com/malware-analysis-cheat-sheet/) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
 | [Defense][Detection] | [www.lares.com Lateral Movement](https://www.lares.com/blog/the-lowdown-on-lateral-movement) |
 | [Defense][Detection] | [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) |
