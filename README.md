@@ -61,6 +61,7 @@ This repository should contain links related to information security resources.
 | [Collection][Defense][Detection] | [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) |
 | [Collection][Links][Attack] | [0x4143/malware-gems](https://github.com/0x4143/malware-gems) |
 | [Collection][Links][Attack][Defense] | [https://start.me/p/OmOrJb/threat-hunting](https://start.me/p/OmOrJb/threat-hunting) |
+| [Collection][Links][OSINT] | [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Collection][Links][News][Microsoft Security] | [https://mattsoseman.wordpress.com Microsoft Security News](https://mattsoseman.wordpress.com/2021/06/19/how-i-keep-up-with-microsoft-sci-product-features-and-news/) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
