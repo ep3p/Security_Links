@@ -38,6 +38,7 @@ This repository should contain links related to information security resources.
 | [Azure][Defense] | [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) |
 | [Azure][Defense] | [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) <br /> [reprise99/kql-for-dfir Guide](https://github.com/reprise99/kql-for-dfir/tree/main/Azure%20Active%20Directory) |
 | [Azure][Defense] | [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator) |
+| [Azure][Defense] | [@\_wald0 Tweet Azure Tiered Administration](https://twitter.com/_wald0/status/1569831930635468802) |
 | [Azure][Device] | [@NathanMcNulty Tweet Azure Device Cleanup](https://twitter.com/NathanMcNulty/status/1516930570483249152) |
 | [Azure][Permission] | [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) <br /> (Old permissions may appear if written in the URI) |
 | [Azure][Permission] | [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) |
