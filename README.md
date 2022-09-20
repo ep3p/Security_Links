@@ -43,6 +43,7 @@ This repository should contain links related to information security resources.
 | [Azure][Permission] | [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) <br /> (Old permissions may appear if written in the URI) |
 | [Azure][Permission] | [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) |
 | [Azure][Permission] | [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content/blob/dev/permissions/permissions-descriptions.json) |
+| [Azure][Permission] | [https://github.com/easimon/azure-builtin-roles](https://github.com/easimon/azure-builtin-roles) |
 | [Blog][AD][Attack] | [hackndo.com](https://en.hackndo.com/archives/) |
 | [Blog][AD][Attack][Defense] | [adsecurity.org](https://adsecurity.org/) |
 | [Blog][AD][Azure][Authentication] | [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) <br /> [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth) <br /> [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) <br /> [docs.microsoft.com Azure AD Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso) |
