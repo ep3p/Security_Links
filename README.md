@@ -64,6 +64,7 @@ This repository should contain links related to information security resources.
 | [Collection][Links][Attack][Defense] | [https://start.me/p/OmOrJb/threat-hunting](https://start.me/p/OmOrJb/threat-hunting) |
 | [Collection][Links][OSINT] | [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) |
 | [Collection][Links][OSINT] | [Tweet @danielmakelley Links OSINT](https://twitter.com/danielmakelley/status/1570910911078207488) |
+| [Collection][Links][OSINT] | [https://start.me/p/rxekAP/osint-research](https://start.me/p/rxekAP/osint-research) |
 | [Collection][Links][Microsoft] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Collection][Links][News][Microsoft Security] | [https://mattsoseman.wordpress.com Microsoft Security News](https://mattsoseman.wordpress.com/2021/06/19/how-i-keep-up-with-microsoft-sci-product-features-and-news/) |
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
