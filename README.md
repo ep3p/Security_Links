@@ -78,6 +78,7 @@ This repository should contain links related to information security resources.
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
 | [Tool][Defense] | [log2timeline/plaso](https://github.com/log2timeline/plaso) |
 | [Tool][Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
+| [Tool][Defense][Test] | [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
 | [Tool][Defense][Phishing] | [emptydc.com Pink Thumb for normal users](https://emptydc.com/2021/06/22/pink-thumb/) |
 | [Tool][Defense] | [pwnedkeys.com Search Compromised Keys](https://pwnedkeys.com/) |
 | [Tool] | [msshells.net Partial list of PowerShell modules for Microsoft 365 and Azure](https://msshells.net/) |
