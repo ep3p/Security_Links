@@ -86,3 +86,4 @@ This repository should contain links related to information security resources.
 | [Tool] | [ciphey/ciphey](https://github.com/ciphey/ciphey) |
 | [Tool] | [bee-san/pyWhat](https://github.com/bee-san/pyWhat) |
 | [Tool] | [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) |
+| [Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
