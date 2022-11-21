@@ -73,6 +73,7 @@ This repository should contain links related to information security resources.
 | [Defense][Detection] | [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) |
 | [Defense][Detection] | [Azure/Cloud-Katana](https://github.com/Azure/Cloud-Katana) |
 | [Defense][DF] | [zeltser.com Cheat Sheet Analysis malicious documents](https://zeltser.com/analyzing-malicious-documents/)  <br /> [zeltser.com Cheat Sheet Analysis malicious software](https://zeltser.com/malware-analysis-cheat-sheet/) |
+| [Defense][DF] | [digitalinvestigator.blogspot.com Email Forensic Analysis](https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [@CraigHRowland Tweet IP Address Obfuscation](https://twitter.com/CraigHRowland/status/1519459391006965760) |
 | [Microsoft Security] | [docs.microsoft.com Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
