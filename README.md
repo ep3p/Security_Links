@@ -3,7 +3,7 @@ This repository should contain links related to information security resources.
 
 | Tags | Link |
 | ---- | ---- |
-| [AD] | [docs.microsoft.com AD Schema](https://docs.microsoft.com/en-us/windows/win32/adschema/active-directory-schema) <br /> [docs.microsoft.com AD Schema Extended Rights](https://docs.microsoft.com/en-us/windows/win32/adschema/extended-rights) <br /> [docs.microsoft.com Control Access Rights](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/1522b774-6464-41a3-87a5-1e5633c3fbbb) <br /> [docs.microsoft.com Best Practices for Securing AD](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)|
+| [AD] | [learn.microsoft.com AD Schema](https://learn.microsoft.com/en-us/windows/win32/adschema/active-directory-schema) <br /> [learn.microsoft.com AD Schema Extended Rights](https://learn.microsoft.com/en-us/windows/win32/adschema/extended-rights) <br /> [learn.microsoft.com Control Access Rights](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/1522b774-6464-41a3-87a5-1e5633c3fbbb) <br /> [learn.microsoft.com Best Practices for Securing AD](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)|
 | [AD] | [renenyffenegger.ch Brief notes about SID](https://renenyffenegger.ch/notes/Windows/security/SID/index) |
 | [AD] | [www.selfadsi.org](selfadsi.org) <br /> [www.selfadsi.org AD Security Descriptors](http://www.selfadsi.org/deep-inside/ad-security-descriptors.htm) |
 | [AD] | [system32.eventsentry.com LookUp Windows Event IDs](https://system32.eventsentry.com/)|
@@ -46,7 +46,7 @@ This repository should contain links related to information security resources.
 | [Azure][Permission] | [https://github.com/easimon/azure-builtin-roles](https://github.com/easimon/azure-builtin-roles) |
 | [Blog][AD][Attack] | [hackndo.com](https://en.hackndo.com/archives/) |
 | [Blog][AD][Attack][Defense] | [adsecurity.org](https://adsecurity.org/) |
-| [Blog][AD][Azure][Authentication] | [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) <br /> [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth) <br /> [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) <br /> [docs.microsoft.com Azure AD Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso) |
+| [Blog][AD][Azure][Authentication] | [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) <br /> [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth) <br /> [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) <br /> [learn.microsoft.com Azure AD Seamless Single Sign-On](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso) |
 | [Blog][Attack][Defense] <br /> [Collection][Defense][Detection] <br /> [Collection][Defense][Detection] | [mrd0x.com](https://mrd0x.com/) <br /> [lots-project.com Legitimate domains used by attackers](https://lots-project.com/) <br /> [filesec.io File extensions used by attackers](https://filesec.io/) |
 | [Blog][Attack][Defense] <br /> [Azure][Attack][Defense] | [inversecos.com](https://www.inversecos.com) <br /> [inversecos.com Attack Matrix Microsoft 365](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html) |
 | [Blog][Attack][Defense] <br /> [Azure][Attack][Defense] <br /> [Defense][Defender for Endpoint] | [cloudbrothers.info](https://cloudbrothers.info/) <br /> [cloudbrothers.info Azure Dominance Paths](https://cloudbrothers.info/en/azure-dominance-paths/) <br /> [cloudbrothers.info Guide Defender for Endpoint exclusions](https://cloudbrothers.info/en/guide-to-defender-exclusions/) |
@@ -73,9 +73,9 @@ This repository should contain links related to information security resources.
 | [Defense][Detection] | [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) |
 | [Defense][Detection] | [Azure/Cloud-Katana](https://github.com/Azure/Cloud-Katana) |
 | [Defense][DF] | [zeltser.com Cheat Sheet Analysis malicious documents](https://zeltser.com/analyzing-malicious-documents/)  <br /> [zeltser.com Cheat Sheet Analysis malicious software](https://zeltser.com/malware-analysis-cheat-sheet/) |
-| [Defense][DF] | [digitalinvestigator.blogspot.com Email Forensic Analysis](https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html) |
+| [Defense][DF][Email] | [digitalinvestigator.blogspot.com Email Forensic Analysis](https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html) |
 | [Linux][Defense] | [@CraigHRowland Tweet Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [@CraigHRowland Tweet IP Address Obfuscation](https://twitter.com/CraigHRowland/status/1519459391006965760) |
-| [Microsoft Security] | [docs.microsoft.com Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) |
+| [Microsoft Security] | [learn.microsoft.com Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) |
 | [Tool][Defense] | [canarytokens.org Sensitive CMD token](https://docs.canarytokens.org/guide/sensitive-cmd-token.html) |
 | [Tool][Defense] | [log2timeline/plaso](https://github.com/log2timeline/plaso) |
 | [Tool][Defense][Test] | [clong/detectionlab](https://github.com/clong/detectionlab) |
