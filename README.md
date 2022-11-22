@@ -102,3 +102,4 @@ This repository should contain links related to information security resources.
 | [Defense][DF][MFA] | [Tweet @malmoeb](https://twitter.com/malmoeb/status/1579851521109688324) |
 | [Defense][DF][Azure][Tool] | [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter) |
 | [Azure AD][Tool] | [aadinternals.com/osint/ Azure AD tenant information](https://aadinternals.com/osint/) |
+| [Microsoft 365][Tool] | [Microsoft 365 Configuration as Code](https://microsoft365dsc.com/) |
