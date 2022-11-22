@@ -92,3 +92,4 @@ This repository should contain links related to information security resources.
 | [Azure] | [azurecharts.com Azure Availability](https://azurecharts.com/)
 | [DF] | [misconfig.io Azure DFIR VM](https://misconfig.io/build-azure-dfir-vm/) |
 | [Attack][AD][Tool] | [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) |
+| [Attack][Tool] | [optiv/Freeze](https://github.com/optiv/Freeze) |
