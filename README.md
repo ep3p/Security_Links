@@ -95,7 +95,8 @@ This repository should contain links related to information security resources.
 | [Attack][Tool] | [optiv/Freeze](https://github.com/optiv/Freeze) |
 | [Attack][Tool] | [D1rkMtr/VirusTotalC2](https://github.com/D1rkMtr/VirusTotalC2) |
 | [Defense][Tool] | [danielbohannon/Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) |
-| [Azure AD][Tool] | [jsa2/caOptics Conditional Access Analyzer](https://github.com/jsa2/caOptics) |
+| [Azure AD] | [cloudbrothers.info Conditional Access authentication strengh](https://cloudbrothers.info/en/conditional-access-authentication-strength/) |
+| [Azure AD][Tool] | [jsa2/caOptics Conditional Access analyzer](https://github.com/jsa2/caOptics) |
 | [Defense][DF][Tool] | [app.threat.zone/scan](https://app.threat.zone/scan) |
 | [Defense][Tool] | [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) |
 | [Defense][DF][MFA] | [Tweet @malmoeb](https://twitter.com/malmoeb/status/1579851521109688324) |
