@@ -88,3 +88,4 @@ This repository should contain links related to information security resources.
 | [Tool] | [bee-san/pyWhat](https://github.com/bee-san/pyWhat) |
 | [Tool] | [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) |
 | [Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
+| [DF][Defender for Endpoint] | [Tweet @SecurityAura](https://twitter.com/SecurityAura/status/1574535883944087553) |
