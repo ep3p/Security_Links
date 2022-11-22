@@ -90,3 +90,4 @@ This repository should contain links related to information security resources.
 | [Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
 | [DF][Defender for Endpoint] | [Tweet @SecurityAura](https://twitter.com/SecurityAura/status/1574535883944087553) |
 | [Azure] | [azurecharts.com Azure Availability](https://azurecharts.com/)
+| [DF] | [misconfig.io Azure DFIR VM](https://misconfig.io/build-azure-dfir-vm/) |
