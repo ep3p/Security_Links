@@ -88,9 +88,9 @@ This repository should contain links related to information security resources.
 | [Tool] | [bee-san/pyWhat](https://github.com/bee-san/pyWhat) |
 | [Tool] | [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) |
 | [Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
-| [DF][Defender for Endpoint] | [Tweet @SecurityAura](https://twitter.com/SecurityAura/status/1574535883944087553) |
+| [Defense][DF][Defender for Endpoint] | [Tweet @SecurityAura](https://twitter.com/SecurityAura/status/1574535883944087553) |
 | [Azure] | [azurecharts.com Azure Availability](https://azurecharts.com/)
-| [DF] | [misconfig.io Azure DFIR VM](https://misconfig.io/build-azure-dfir-vm/) |
+| [Defense][DF] | [misconfig.io Azure DFIR VM](https://misconfig.io/build-azure-dfir-vm/) |
 | [Attack][AD][Tool] | [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) |
 | [Attack][Tool] | [optiv/Freeze](https://github.com/optiv/Freeze) |
 | [Attack][Tool] | [D1rkMtr/VirusTotalC2](https://github.com/D1rkMtr/VirusTotalC2) |
