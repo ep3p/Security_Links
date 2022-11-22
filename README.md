@@ -97,3 +97,4 @@ This repository should contain links related to information security resources.
 | [Defense][Tool] | [danielbohannon/Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) |
 | [Azure AD][Tool] | [jsa2/caOptics Conditional Access Analyzer](https://github.com/jsa2/caOptics) |
 | [Defense][DF][Tool] | [app.threat.zone/scan](https://app.threat.zone/scan) |
+| [Defense][Tool] | [olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular) |
