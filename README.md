@@ -93,6 +93,7 @@ This repository should contain links related to information security resources.
 | [Azure AD][Tool] | [jsa2/caOptics Conditional Access analyzer](https://github.com/jsa2/caOptics) |
 | [Azure AD][Tool] | [aadinternals.com/osint/ Azure AD tenant information](https://aadinternals.com/osint/) |
 | [Azure AD][Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
+| [Azure AD][Tool] | [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) |
 | [Azure] | [azurecharts.com Azure Availability](https://azurecharts.com/) |
 | [Microsoft][Collection] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Microsoft 365][Tool] | [Microsoft 365 Configuration as Code](https://microsoft365dsc.com/) |
