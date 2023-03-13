@@ -84,6 +84,7 @@ This repository should contain links related to information security resources.
 | [AD][RDP] | [frsecure.com RDP Event IDs](https://frsecure.com/blog/rdp-connection-event-logs/) |
 | [Azure AD] | [cloudbrothers.info Conditional Access authentication strengh](https://cloudbrothers.info/en/conditional-access-authentication-strength/) |
 | [Azure AD] | [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) |
+| [Azure AD] | [Password Reset Role Matrix](https://docs.google.com/spreadsheets/d/1RFcuXXvslwiSLb5NFZNxyMD6vNWsh95ddu0-MusYAwM) |
 | [Azure AD][Authentication] | [LookUp Microsoft SignInLogs Error Codes (ResultType)](https://login.microsoftonline.com/error) <br /> [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt) |
 | [Azure AD][Device] | [@NathanMcNulty Tweet Azure Device Cleanup](https://twitter.com/NathanMcNulty/status/1516930570483249152) |
 | [Azure AD][Permission] | [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) <br /> (Old permissions may appear if written in the URI) |
