@@ -19,6 +19,7 @@ This repository should contain links related to information security resources.
 | [Attack][Azure] | [posts.specterops.io Abuse Azure Container Registry Tasks](https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465) |
 | [Attack][Azure] | [cloudbrothers.info Azure Dominance Paths](https://cloudbrothers.info/en/azure-dominance-paths/) |
 | [Attack][Azure] | [misconfig.io Attack Azure Storage](https://misconfig.io/azure-blob-container-threats-attack/) |
+| [Attack][Kubernetes][Tool] | [KubeHound](https://kubehound.io/) |
 | [Attack][Microsoft 365][Tool] | [nheiniger/SnaffPoint](https://github.com/nheiniger/SnaffPoint) |
 | [Attack][Tool] | [optiv/Freeze](https://github.com/optiv/Freeze) |
 | [Attack][Tool] | [D1rkMtr/VirusTotalC2](https://github.com/D1rkMtr/VirusTotalC2) |
