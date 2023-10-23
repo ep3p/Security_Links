@@ -11,7 +11,7 @@ This repository should contain links related to information security resources.
 | [Attack][AD] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) <br /> [PE scmanager](https://0xv1n.github.io/posts/scmanager/) |
 | [Attack][AD] <br /> [Attack][AD][Tool] | [www.wietzebeukema.nl Windows Command Line Obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation) <br /> [wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation) |
 | [Attack][AD][Tool] | [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) |
-| [Attack][Azure AD] | [o365blog.com Faking Device Compliance](https://o365blog.com/post/mdm/) |
+| [Attack][Entra ID] | [o365blog.com Faking Device Compliance](https://o365blog.com/post/mdm/) |
 | [Attack][Azure] | [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) |
 | [Attack][Azure] | [mandiant/Azure_Workshop](https://github.com/mandiant/Azure_Workshop) <br /> [mandiant/Azure_Workshop Setup Video](https://www.youtube.com/watch?v=j20yiY1sArU) |
 | [Attack][Azure] | [rootsecdev/Azure-Red-Team](https://github.com/rootsecdev/Azure-Red-Team) |
@@ -32,12 +32,12 @@ This repository should contain links related to information security resources.
 | [Defense][AD] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
 | [Defense][AD] | [@NathanMcNulty Tweet Code Integrity Guard](https://twitter.com/NathanMcNulty/status/1558317007384170496) |
 | [Defense][AD][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
-| [Defense][Azure AD] | [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) |
-| [Defense][Azure AD] | [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) |
-| [Defense][Azure AD][Simulation] | [Azure/SimuLand](https://simulandlabs.com/labs/README.html) |
-| [Defense][Azure AD] | [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) |
-| [Defense][Azure AD] | [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator) |
-| [Defense][Azure AD] | [@\_wald0 Tweet Azure Tiered Administration](https://twitter.com/_wald0/status/1569831930635468802) |
+| [Defense][Entra ID] | [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) |
+| [Defense][Entra ID] | [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) |
+| [Defense][Entra ID][Simulation] | [Azure/SimuLand](https://simulandlabs.com/labs/README.html) |
+| [Defense][Entra ID] | [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) |
+| [Defense][Entra ID] | [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator) |
+| [Defense][Entra ID] | [@\_wald0 Tweet Azure Tiered Administration](https://twitter.com/_wald0/status/1569831930635468802) |
 | [Defense][Azure] | [microsoft.github.io/Azure-Threat-Research-Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/) |
 | [Defense][Azure] | [inversecos.com Attack Matrix Microsoft 365](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html) |
 | [Defense][Azure] | [misconfig.io Azure Misconfiguration Risks](https://misconfig.io/cloud-misconfiguration-risks-azure/) |
@@ -49,7 +49,7 @@ This repository should contain links related to information security resources.
 | [Defense][Detection] | [lots-project.com Legitimate domains used by attackers](https://lots-project.com/) |
 | [Defense][Detection] | [filesec.io File extensions used by attackers](https://filesec.io/) |
 | [Defense][Detection][Collection] | [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) |
-| [Defense][DF][Azure AD][MFA] | [Tweet @malmoeb](https://twitter.com/malmoeb/status/1579851521109688324) |
+| [Defense][DF][Entra ID][MFA] | [Tweet @malmoeb](https://twitter.com/malmoeb/status/1579851521109688324) |
 | [Defense][DF][Azure][Tool] | [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter) |
 | [Defense][DF][Defender for Endpoint] | [Tweet @SecurityAura](https://twitter.com/SecurityAura/status/1574535883944087553) |
 | [Defense][DF][Email] | [digitalinvestigator.blogspot.com Email Forensic Analysis](https://digitalinvestigator.blogspot.com/2022/11/techniques-in-email-forensic-analysis.html) |
@@ -58,7 +58,7 @@ This repository should contain links related to information security resources.
 | [Defense][DF] | [misconfig.io Azure DFIR VM](https://misconfig.io/build-azure-dfir-vm/) |
 | [Defense][IR][AD] | [www.pwndefend.com Post Compromise AD Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/) |
 | [Defense][IR][AD] | [@Purp1eW0lf Tweet Incident Responde Cobalt Strike](https://twitter.com/Purp1eW0lf/status/1559482618873356289) |
-| [Defense][IR][Azure AD] | [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) <br /> [reprise99/kql-for-dfir Guide](https://github.com/reprise99/kql-for-dfir/tree/main/Azure%20Active%20Directory) |
+| [Defense][IR][Entra ID] | [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) <br /> [reprise99/kql-for-dfir Guide](https://github.com/reprise99/kql-for-dfir/tree/main/Azure%20Active%20Directory) |
 | [Defense][IR][Azure] | [misconfig.io Azure AD Incident Response life cycle](https://misconfig.io/azure-ad-incident-response-life-cycle-tools) |
 | [Defense][Linux] | [Tweet @CraigHRowland Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [Tweet @CraigHRowland IP Address Obfuscation](https://twitter.com/CraigHRowland/status/1519459391006965760) |
 | [Defense][Phishing][Tool] | [emptydc.com Pink Thumb for normal users](https://emptydc.com/2021/06/22/pink-thumb/) |
@@ -82,20 +82,21 @@ This repository should contain links related to information security resources.
 | [AD][Authentication] | [Collection of posts about Windows Authentication](https://syfuhs.net/understanding-windows-auth) <br /> [The Importance of Elevating Privilege](https://syfuhs.net/2011/08/28/the-importance-of-elevating-privilege/) <br /> [learn.microsoft.com Azure AD Seamless Single Sign-On](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sso) |
 | [AD][LDAP] | [Tweet @simondotsh LDAP Query nested groups](https://twitter.com/simondotsh/status/1567557601608572932) |
 | [AD][RDP] | [frsecure.com RDP Event IDs](https://frsecure.com/blog/rdp-connection-event-logs/) |
-| [Azure AD] | [cloudbrothers.info Conditional Access authentication strengh](https://cloudbrothers.info/en/conditional-access-authentication-strength/) |
-| [Azure AD] | [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) |
-| [Azure AD] | [Password Reset Role Matrix](https://docs.google.com/spreadsheets/d/1RFcuXXvslwiSLb5NFZNxyMD6vNWsh95ddu0-MusYAwM) |
-| [Azure AD][Authentication] | [LookUp Microsoft SignInLogs Error Codes (ResultType)](https://login.microsoftonline.com/error) <br /> [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt) |
-| [Azure AD][Device] | [@NathanMcNulty Tweet Azure Device Cleanup](https://twitter.com/NathanMcNulty/status/1516930570483249152) |
-| [Azure AD][Permission] | [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) <br /> (Old permissions may appear if written in the URI) |
-| [Azure AD][Permission] | [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) |
-| [Azure AD][Permission] | [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content/blob/dev/permissions/permissions-descriptions.json) |
-| [Azure AD][Permission] | [https://github.com/easimon/azure-builtin-roles](https://github.com/easimon/azure-builtin-roles) |
-| [Azure AD][Tool] | [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) |
-| [Azure AD][Tool] | [jsa2/caOptics Conditional Access analyzer](https://github.com/jsa2/caOptics) |
-| [Azure AD][Tool] | [aadinternals.com/osint/ Azure AD tenant information](https://aadinternals.com/osint/) |
-| [Azure AD][Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
-| [Azure AD][Tool] | [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) |
+| [Entra ID] | [cloudbrothers.info Conditional Access authentication strengh](https://cloudbrothers.info/en/conditional-access-authentication-strength/) |
+| [Entra ID] | [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) |
+| [Entra ID] | [Password Reset Role Matrix](https://docs.google.com/spreadsheets/d/1RFcuXXvslwiSLb5NFZNxyMD6vNWsh95ddu0-MusYAwM) |
+| [Entra ID][Authentication] | [LookUp Microsoft SignInLogs Error Codes (ResultType)](https://login.microsoftonline.com/error) <br /> [acalarch/azure-signinlog-results](https://github.com/acalarch/azure-signinlog-results/blob/main/signinlog-results.txt) |
+| [Entra ID][Authentication] | [Tweet @reprise_99 Entra ID Tokens](https://twitter.com/reprise_99/status/1698607330513076674) |
+| [Entra ID][Device] | [@NathanMcNulty Tweet Azure Device Cleanup](https://twitter.com/NathanMcNulty/status/1516930570483249152) |
+| [Entra ID][Permission] | [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) <br /> (Old permissions may appear if written in the URI) |
+| [Entra ID][Permission] | [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) |
+| [Entra ID][Permission] | [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content/blob/dev/permissions/permissions-descriptions.json) |
+| [Entra ID][Permission] | [https://github.com/easimon/azure-builtin-roles](https://github.com/easimon/azure-builtin-roles) |
+| [Entra ID][Tool] | [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) |
+| [Entra ID][Tool] | [jsa2/caOptics Conditional Access analyzer](https://github.com/jsa2/caOptics) |
+| [Entra ID][Tool] | [aadinternals.com/osint/ Azure AD tenant information](https://aadinternals.com/osint/) |
+| [Entra ID][Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
+| [Entra ID][Tool] | [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) |
 | [Azure] | [azurecharts.com Azure Availability](https://azurecharts.com/) |
 | [Microsoft][Collection] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Microsoft 365][Tool] | [Microsoft 365 Configuration as Code](https://microsoft365dsc.com/) |
@@ -107,7 +108,7 @@ This repository should contain links related to information security resources.
 | [Blog][Defense] | [inversecos.com](https://www.inversecos.com) |
 | [Blog][Defense] | [misconfig.io](https://misconfig.io/) |
 | [Blog][AD] | [adsecurity.org](https://adsecurity.org/) |
-| [Blog][AD][Azure AD][Authentication] | [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) |
+| [Blog][AD][Entra ID][Authentication] | [Microsoft Developer Steve Syfuhs](https://syfuhs.net/) |
 | [Blog][Microsoft 365] | [office365itpros.com](https://office365itpros.com/) |
 | [Blog][Microsoft Security] | [o365blog.com](https://o365blog.com/) <br /> [aadinternals.com](https://aadinternals.com/) |
 | [Blog][Microsoft Security] | [azurecloudai.blog](https://azurecloudai.blog/) |
