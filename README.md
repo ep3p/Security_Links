@@ -9,6 +9,7 @@ This repository should contain links related to information security resources.
 | [Attack][AD] | [pentestlab.blog Introduction Golden Certificate](https://pentestlab.blog/2021/11/15/golden-certificate/) |
 | [Attack][AD] | [zer1t0.gitlab.io Attack AD](https://zer1t0.gitlab.io/posts/attacking_ad/) |
 | [Attack][AD] | [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) <br /> [PE scmanager](https://0xv1n.github.io/posts/scmanager/) |
+| [Attack][AD] | [Tweet @4ndr3w6S NetSync Domain Controllers](https://twitter.com/4ndr3w6S/status/1715778727605371257) |
 | [Attack][AD] <br /> [Attack][AD][Tool] | [www.wietzebeukema.nl Windows Command Line Obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation) <br /> [wietze/windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation) |
 | [Attack][AD][Tool] | [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) |
 | [Attack][Entra ID] | [o365blog.com Faking Device Compliance](https://o365blog.com/post/mdm/) |
