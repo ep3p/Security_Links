@@ -96,7 +96,8 @@ This repository should contain links related to information security resources.
 | [Entra ID][Permission] | [graphpermissions.merill.net Microsoft Graph Permission Explorer](https://graphpermissions.merill.net/index.html) <br /> (Old permissions may appear if written in the URI) |
 | [Entra ID][Permission] | [MicrosoftDocs/memdocs Intune Graph API](https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/developer/intune-graph-apis.md) |
 | [Entra ID][Permission] | [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content/blob/dev/permissions/permissions-descriptions.json) |
-| [Entra ID][Permission] | [https://github.com/easimon/azure-builtin-roles](https://github.com/easimon/azure-builtin-roles) |
+| [Entra ID][Permission] | [easimon/azure-builtin-roles](https://github.com/easimon/azure-builtin-roles) |
+| [Entra ID][Permission] | [Cloud-Architekt/AzurePrivilegedIAM](https://github.com/Cloud-Architekt/AzurePrivilegedIAM) |
 | [Entra ID][Tool] | [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) |
 | [Entra ID][Tool] | [jsa2/caOptics Conditional Access analyzer](https://github.com/jsa2/caOptics) |
 | [Entra ID][Tool] | [aadinternals.com/osint/ Azure AD tenant information](https://aadinternals.com/osint/) |
