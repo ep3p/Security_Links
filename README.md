@@ -102,6 +102,7 @@ This repository should contain links related to information security resources.
 | [Entra ID][Tool] | [aadinternals.com/osint/ Azure AD tenant information](https://aadinternals.com/osint/) |
 | [Entra ID][Tool] | [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) |
 | [Entra ID][Tool] | [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) |
+| [Entra ID][Tool] | [@merill idPowerToys](https://idpowertoys.com/) |
 | [Microsoft][Collection] | [msportals.io Microsoft Portals](https://msportals.io/) |
 | [Microsoft 365][Tool] | [Microsoft 365 Configuration as Code](https://microsoft365dsc.com/) |
 | [Microsoft 365][Tool] | [msshells.net Partial list of PowerShell modules for Microsoft 365 and Azure](https://msshells.net/) |
