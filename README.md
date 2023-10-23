@@ -32,6 +32,7 @@ This repository should contain links related to information security resources.
 | [Defense][AD] | [@\_wald0 Tweet AD Defense Kerberoasting](https://twitter.com/_wald0/status/1562871258190348289) |
 | [Defense][AD] | [trimarcsecurity.com AD Security Review](https://www.hub.trimarcsecurity.com/amp/securing-active-directory-performing-an-active-directory-security-review) |
 | [Defense][AD] | [@NathanMcNulty Tweet Code Integrity Guard](https://twitter.com/NathanMcNulty/status/1558317007384170496) |
+| [Defense][AD] | [learn.microsoft.com Monitoring Active Directory for Signs of Compromise](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/monitoring-active-directory-for-signs-of-compromise) |
 | [Defense][AD][RDP][Defender for Identity] | [Defend against RDP attempts](https://www.linkedin.com/pulse/detect-investigate-resolve-freerdp-attacks-using-pasquier-ceh) |
 | [Defense][Entra ID] | [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) |
 | [Defense][Entra ID] | [jeffreyappel.nl Azure AD attacks](https://jeffreyappel.nl/tips-for-preventing-against-new-modern-identity-attacks-aitm-mfa-fatigue-prt-oauth/) |
