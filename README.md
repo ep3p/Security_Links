@@ -110,6 +110,7 @@ This repository should contain links related to information security resources.
 | [Microsoft 365][Tool] | [msshells.net Partial list of PowerShell modules for Microsoft 365 and Azure](https://msshells.net/) |
 | [Microsoft Security] | [learn.microsoft.com Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) |
 | [Microsoft Security][Collection] | [https://mattsoseman.wordpress.com Microsoft Security News](https://mattsoseman.wordpress.com/2021/06/19/how-i-keep-up-with-microsoft-sci-product-features-and-news/) |
+| [Microsoft Security] | [Microsoft Zero Trust Workshop](https://microsoft.github.io/zerotrustassessment/docs/intro)
 | [Blog][Attack] | [mrd0x.com](https://mrd0x.com/) |
 | [Blog][Attack][AD] | [hackndo.com](https://en.hackndo.com/archives/) |
 | [Blog][Defense] | [inversecos.com](https://www.inversecos.com) |
