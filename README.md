@@ -38,6 +38,7 @@ This repository should contain links related to information security resources.
 | [Defense][Azure] | [microsoft.github.io/Azure-Threat-Research-Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/) |
 | [Defense][Azure] | [inversecos.com Attack Matrix Microsoft 365](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html) |
 | [Defense][Azure] | [misconfig.io Azure Misconfiguration Risks](https://misconfig.io/cloud-misconfiguration-risks-azure/) |
+| [Defense][Collection] | [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists)
 | [Defense][Detection] | [mitre-attack/car](https://car.mitre.org/analytics/by_technique) |
 | [Defense][Detection] | [www.lares.com Lateral Movement](https://www.lares.com/blog/the-lowdown-on-lateral-movement) |
 | [Defense][Detection] | [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) |
