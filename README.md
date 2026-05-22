@@ -106,6 +106,7 @@ This repository should contain links related to information security resources.
 | [Entra ID][Tool] | [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) |
 | [Entra ID][Tool] | [@merill idPowerToys](https://idpowertoys.com/) |
 | [Microsoft][Collection] | [msportals.io Microsoft Portals](https://msportals.io/) |
+| [Microsoft][Collection] | [nodoc.nathanmcnulty.com Undocumented Microsoft portal APIs](https://nodoc.nathanmcnulty.com/) |
 | [Microsoft 365][Tool] | [Microsoft 365 Configuration as Code](https://microsoft365dsc.com/) |
 | [Microsoft 365][Tool] | [msshells.net Partial list of PowerShell modules for Microsoft 365 and Azure](https://msshells.net/) |
 | [Microsoft Security] | [learn.microsoft.com Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra) |
