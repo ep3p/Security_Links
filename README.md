@@ -88,7 +88,6 @@ This repository should contain links related to information security resources.
 | [AD][RDP] | [frsecure.com RDP Event IDs](https://frsecure.com/blog/rdp-connection-event-logs/) |
 | [Azure] | [azurecharts.com Azure Availability](https://azurecharts.com/) |
 | [Containers] | [Tweet @iximiuz Containers explanation](https://twitter.com/iximiuz/status/1708576592090349701) |
-| [Defender for Endpoint][Diagnose][Tool] | [learn.microsoft.com Troubleshooting on Windows](https://learn.microsoft.com/en-us/defender-endpoint/data-collection-analyzer) |
 | [Entra ID] | [cloudbrothers.info Conditional Access authentication strengh](https://cloudbrothers.info/en/conditional-access-authentication-strength/) |
 | [Entra ID] | [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) |
 | [Entra ID] | [Password Reset Role Matrix](https://docs.google.com/spreadsheets/d/1RFcuXXvslwiSLb5NFZNxyMD6vNWsh95ddu0-MusYAwM) |
