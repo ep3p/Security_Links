@@ -28,6 +28,7 @@ This repository should contain links related to information security resources.
 | [Attack][Collection][Simulation] | [gtworek/psbits](https://github.com/gtworek/psbits) |
 | [Attack][Collection] | [0x4143/malware-gems](https://github.com/0x4143/malware-gems) |
 | [Attack][Defense][Collection] | [https://start.me/p/OmOrJb/threat-hunting](https://start.me/p/OmOrJb/threat-hunting) |
+| [Attack][Defense][Collection] | [13cubed study notes](https://training.13cubed.com/downloads) |
 | [Defense][AD] | [www.jpcert.or.jp Detecting Lateral Movement](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf) |
 | [Defense][AD] | [@PyroTek3 Tweet AD Defense](https://twitter.com/PyroTek3/status/1499746968830197761) |
 | [Defense][AD] | [@\_wald0 Tweet AD Defense Kerberoasting](https://twitter.com/_wald0/status/1562871258190348289) |
