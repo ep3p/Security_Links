@@ -46,7 +46,7 @@ This repository should contain links related to information security resources.
 | [Defense][Detection] | [Azure/Cloud-Katana](https://github.com/Azure/Cloud-Katana) |
 | [Defense][Detection] | [lots-project.com Legitimate domains used by attackers](https://lots-project.com/) |
 | [Defense][Detection] | [filesec.io File extensions used by attackers](https://filesec.io/) |
-| [Defense][Detection][Tool] | [DRAPE Index](https://detect.fyi/introducing-the-drape-index-how-to-measure-in-success-in-a-threat-detection-practice-154fd977f731) |
+| [Defense][Detection][Tool] | [detect.fyi DRAPE Index](https://detect.fyi/introducing-the-drape-index-how-to-measure-in-success-in-a-threat-detection-practice-154fd977f731) |
 | [Defense][Detection][Collection] | [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) |
 | [Defense][DF][Entra ID][MFA] | [Tweet @malmoeb](https://twitter.com/malmoeb/status/1579851521109688324) |
 | [Defense][DF][Azure][Tool] | [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter) |
