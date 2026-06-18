@@ -61,9 +61,10 @@ This repository should contain links related to information security resources.
 | [Defense][Entra ID] | [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator) |
 | [Defense][Entra ID] | [@\_wald0 Tweet Azure Tiered Administration](https://twitter.com/_wald0/status/1569831930635468802) |
 | [Defense][IR][AD] | [www.pwndefend.com Post Compromise AD Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/) |
-| [Defense][IR][AD] | [@Purp1eW0lf Tweet Incident Responde Cobalt Strike](https://twitter.com/Purp1eW0lf/status/1559482618873356289) |
+| [Defense][IR][AD] | [@Purp1eW0lf Tweet Incident Response Cobalt Strike](https://twitter.com/Purp1eW0lf/status/1559482618873356289) |
 | [Defense][IR][Azure] | [misconfig.io Azure AD Incident Response life cycle](https://misconfig.io/azure-ad-incident-response-life-cycle-tools) |
 | [Defense][IR][Entra ID] | [AzureAD/Azure-AD-Incident-Response-PowerShell-Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module) <br /> [reprise99/kql-for-dfir Guide](https://github.com/reprise99/kql-for-dfir/tree/main/Azure%20Active%20Directory) |
+| [Defense][Remediate][Outlook] | [Fix Outlook hacked Draft Email](https://www.yourwindowsguide.com/2026/02/outlook-hacked-draft-email.html) |
 | [Defense][Linux] | [Tweet @CraigHRowland Linux Defense](https://twitter.com/CraigHRowland/status/1093280393329991680) <br /> [Tweet @CraigHRowland IP Address Obfuscation](https://twitter.com/CraigHRowland/status/1519459391006965760) |
 | [Defense][Phishing][Tool] | [emptydc.com Pink Thumb for normal users](https://emptydc.com/2021/06/22/pink-thumb/) |
 | [Defense][Simulation][Tool] | [clong/detectionlab](https://github.com/clong/detectionlab) |
